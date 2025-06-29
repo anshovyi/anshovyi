@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshovyi&show_icons=true&locale=en" alt="anshovyi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshovyi&" alt="anshovyi" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6860b0378380355be5c24e81?variant=dark" alt="roadmap.sh"/></a>
