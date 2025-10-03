@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buen Carlos Toledo</h1>
-<h3 align="center">A passionate backend dev, game designer from Philippines 🇵🇭</h3>
+<h3 align="center">A passionate digital forensic, in Cybersec field from Philippines 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshovyi&label=Profile%20views&color=0e75b6&style=flat" alt="anshovyi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **work in progress....**
 
-- 🌱 I’m currently learning **CS50's Intro to Computer Science, roadmap.sh - Backend Developer**
+- 🌱 I’m currently learning **CS50's Intro to Computer Science, roadmap.sh - Cybersecurity**
 
 - 👯 I’m looking to collaborate on **------**
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **C, Java & Python**
 
-- 📫 How to reach me **carlosdelmundo22@gmail.com**
+- 📫 How to reach me **carlosdelmundo15@gmail.com**
 
-- ⚡ Fun fact **I love Cycling.**
+- ⚡ Fun fact **I love sk8.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
